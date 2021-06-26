@@ -9,7 +9,7 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc109/ai
 
-# 聲明
+# 授權聲明
 內容及圖片部分取自維基百科，採用[CC:BY-SA 授權](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
 
 # 筆記
